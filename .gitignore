@@ -5,3 +5,5 @@ node_modules/
 /practice-2/simple-rust-project/target/
 /practice-2/rust-solana-tasks/solana-tasks/target/
 
+/practice-2/rust-solana-tasks/solana-tasks/target/
+/practice-2/send-sol/target/
